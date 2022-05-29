@@ -1,0 +1,9 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+matplotlib
+numpy
+pandas
+pyparsing==2.4.7
+requests==2.25.0
+urllib3==1.26.2
+
